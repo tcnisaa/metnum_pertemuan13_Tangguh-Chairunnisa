@@ -1,4 +1,4 @@
 # metnum_pertemuan13_Tangguh-Chairunnisa
 Implementasi Integrasi Numerik pada program
 Tangguh Chairunnisa - 21120122140103
-Menyelesaikan problem 1 yaitu mencari hubungan faktor yang mempengaruhi nilai ujian siswa (NT) dari Durasi waktu belajar (TB) sebagai pengaruh terhadap nilai ujian. Menggunakan metode linear dan pangkat sederhana untuk menyelesaikan masalah.
+implementasi penghitungan nilai integral fungsi tersebut secara numerik dengan metode simpson 1/3 dimana menggunakan variasi nilai N = 10, 100, 1000, 10000 pada testing.
